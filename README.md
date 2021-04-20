@@ -1,0 +1,1 @@
+# Frequenist-Inference-case-study
